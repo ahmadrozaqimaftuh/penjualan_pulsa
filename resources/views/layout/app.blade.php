@@ -37,7 +37,7 @@
        <div class="container-fluid px-4">
 
            <a class="navbar-brand fw-bold text-white fs-3" href="/">
-               Counter Pulsa
+               Zaqi Cell
            </a>
 
             <button class="navbar-toggler"
@@ -100,7 +100,7 @@
 </div>
 
     <footer class="bg-secondary text-white text-center py-3 mt-5">
-        © 2026 Counter Pulsa
+        © 2026 Zaqi Cell
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
