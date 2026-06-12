@@ -3,7 +3,7 @@
 @section('title', 'Edit Pelanggan')
 
 @section('content')
-<div class="container mt-4">
+<div class="card p-3 container mt-4">
     <h1>Tambah Transaksi</h1>
 
     <form action="{{ route('transaksi_pulsa.store') }}" method="POST">

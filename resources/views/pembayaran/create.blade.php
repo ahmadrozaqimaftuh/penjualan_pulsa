@@ -4,7 +4,7 @@
 
 @section('content')
 
-<div class="container mt-4">
+<div class="card p-3 container mt-4">
     <h1>Tambah Pembayaran</h1>
 
     <form action="{{ route('pembayaran.store') }}" method="post">

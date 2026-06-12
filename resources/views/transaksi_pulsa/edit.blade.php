@@ -3,7 +3,7 @@
 @section('title', 'Edit Pelanggan')
 
 @section('content')
-    <div class="container">
+    <div class="card p-3 container">
         <h1>Edit Transaksi</h1>
 
         <form action="{{ route('transaksi_pulsa.update', $transaksi_pulsa->id) }}" method="post">
