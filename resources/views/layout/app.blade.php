@@ -85,7 +85,7 @@
                     </li>
 
                 </ul>
-              <a href="/logout" class="btn btn-danger ms-3">
+              <a href="/login" class="btn btn-danger ms-3">
     <i class="bi bi-box-arrow-right me-2"></i> Logout
 </a>
                 
